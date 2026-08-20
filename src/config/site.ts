@@ -6,8 +6,8 @@ export const siteConfig = {
     "Sites, landing pages, automação, sistemas, aplicativos, chatbots e soluções digitais para ajudar sua empresa a crescer.",
   url: "https://fluxodireto.com.br",
   locale: "pt-BR",
-  email: "contato@fluxodireto.com.br",
-  city: "Porto Alegre",
+  email: "vendascomp55@gmail.com",
+  city: "Esteio",
   state: "RS",
   country: "BR",
   whatsapp: {
@@ -18,7 +18,7 @@ export const siteConfig = {
       "Olá! Conheci a Fluxo Direto pelo site e gostaria de saber como vocês podem ajudar minha empresa.",
   },
   social: {
-    instagram: "",
+    instagram: "@fluxodireto.rs",
     linkedin: "",
   },
 } as const;
